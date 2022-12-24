@@ -30,4 +30,4 @@ You may also see any lint errors in the console.
 
 ## Deployment
 
-[Netlify deploy link](https://violet-coffee-shop.netlify.app)
+[Netlify deploy link](https://dashing-stardust-80f144.netlify.app)
